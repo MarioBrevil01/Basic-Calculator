@@ -1,4 +1,4 @@
-Java Calculator App
+# Java Calculator App
 
 This is a simple calculator app built using Java.
 How to use the app
@@ -9,13 +9,13 @@ How to use the app
     Click the "Calculate" button.
     The result will be displayed in the output field.
 
-Features
+## Features
 
     Addition, subtraction, multiplication, and division operations are supported.
     The app can handle integer and floating-point numbers.
     Input validation is performed to ensure that only valid numbers are entered.
     Error messages are displayed if invalid input is entered or if division by zero occurs.
 
-Contributing
+## Contributing
 
 If you would like to contribute to this project, feel free to submit a pull request.
